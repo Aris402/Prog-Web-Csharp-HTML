@@ -76,3 +76,7 @@ C:\Users\Aris4\source\repos\Projeto1_PSI_Csharp\Projeto1_PSI_Csharp\obj\Debug\Pr
 C:\Users\Aris4\source\repos\Projeto1_PSI_Csharp\Projeto1_PSI_Csharp\obj\Debug\Projeto1_PSI_Csharp.csproj.CopyComplete
 C:\Users\Aris4\source\repos\Projeto1_PSI_Csharp\Projeto1_PSI_Csharp\obj\Debug\Projeto1_PSI_Csharp.dll
 C:\Users\Aris4\source\repos\Projeto1_PSI_Csharp\Projeto1_PSI_Csharp\obj\Debug\Projeto1_PSI_Csharp.pdb
+C:\Users\Aris4\source\repos\Projeto1_PSI_Csharp\Projeto1_PSI_Csharp\bin\EntityFramework.dll
+C:\Users\Aris4\source\repos\Projeto1_PSI_Csharp\Projeto1_PSI_Csharp\bin\EntityFramework.SqlServer.dll
+C:\Users\Aris4\source\repos\Projeto1_PSI_Csharp\Projeto1_PSI_Csharp\bin\EntityFramework.xml
+C:\Users\Aris4\source\repos\Projeto1_PSI_Csharp\Projeto1_PSI_Csharp\bin\EntityFramework.SqlServer.xml
