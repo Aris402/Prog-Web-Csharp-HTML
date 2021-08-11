@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+﻿using System.Linq;
 using System.Web.Mvc;
 using Projeto1_PSI_Csharp.Context;
 using Projeto1_PSI_Csharp.Models;
-using Projeto1_PSI_Csharp.Context;
 using System.Net;
 using System.Data.Entity;
 
