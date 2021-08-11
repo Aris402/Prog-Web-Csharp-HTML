@@ -1,0 +1,17 @@
+C:\Users\Aris4\source\repos\Projeto1_PSI_Csharp\Serviço\obj\Debug\Servico.csproj.AssemblyReference.cache
+C:\Users\Aris4\source\repos\Projeto1_PSI_Csharp\Serviço\obj\Debug\Servico.csproj.CoreCompileInputs.cache
+C:\Users\Aris4\source\repos\Projeto1_PSI_Csharp\Serviço\bin\Debug\Serviço.dll.config
+C:\Users\Aris4\source\repos\Projeto1_PSI_Csharp\Serviço\bin\Debug\Serviço.dll
+C:\Users\Aris4\source\repos\Projeto1_PSI_Csharp\Serviço\bin\Debug\Serviço.pdb
+C:\Users\Aris4\source\repos\Projeto1_PSI_Csharp\Serviço\bin\Debug\EntityFramework.dll
+C:\Users\Aris4\source\repos\Projeto1_PSI_Csharp\Serviço\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aris4\source\repos\Projeto1_PSI_Csharp\Serviço\bin\Debug\Modelo.dll
+C:\Users\Aris4\source\repos\Projeto1_PSI_Csharp\Serviço\bin\Debug\Persistencia.dll
+C:\Users\Aris4\source\repos\Projeto1_PSI_Csharp\Serviço\bin\Debug\Modelo.pdb
+C:\Users\Aris4\source\repos\Projeto1_PSI_Csharp\Serviço\bin\Debug\Persistencia.pdb
+C:\Users\Aris4\source\repos\Projeto1_PSI_Csharp\Serviço\bin\Debug\Persistencia.dll.config
+C:\Users\Aris4\source\repos\Projeto1_PSI_Csharp\Serviço\bin\Debug\EntityFramework.xml
+C:\Users\Aris4\source\repos\Projeto1_PSI_Csharp\Serviço\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aris4\source\repos\Projeto1_PSI_Csharp\Serviço\obj\Debug\Servico.csproj.CopyComplete
+C:\Users\Aris4\source\repos\Projeto1_PSI_Csharp\Serviço\obj\Debug\Serviço.dll
+C:\Users\Aris4\source\repos\Projeto1_PSI_Csharp\Serviço\obj\Debug\Serviço.pdb
